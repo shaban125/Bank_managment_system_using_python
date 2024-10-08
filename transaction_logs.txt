@@ -1,0 +1,4 @@
+Deposit: $1000.00 from account 000 for shaban
+Withdraw: $400.00 from account 000 for shaban
+Deposit: $400.00 from account 111 for salman
+Transfer: $400.00 from account 000 for shaban
